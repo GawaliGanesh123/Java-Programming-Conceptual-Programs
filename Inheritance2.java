@@ -44,7 +44,6 @@ class Inheritance2
     {
         System.out.println("Inside main");
         Derived dobj = new Derived();
-
         dobj.sun();
     }
 }
