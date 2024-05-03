@@ -47,3 +47,4 @@ class Inheritance2
         dobj.sun();
     }
 }
+  
