@@ -33,8 +33,8 @@ class Derived extends Base      // class Derived : public Base
     public void sun()
     {
         System.out.println("Inside derived sun");
-        System.out.println(super.i);        // 1
-        super.fun();                // 2
+        System.out.println(super.i);        
+        super.fun();                
     }
 }
 
