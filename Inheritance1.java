@@ -52,6 +52,7 @@ class Inheritance1
     {
         System.out.println("Inside main");
         Derived dobj = new Derived();
+       
         dobj.fun();
         dobj.fun(11);
         dobj.gun();
