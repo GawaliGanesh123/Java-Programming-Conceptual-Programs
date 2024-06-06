@@ -39,6 +39,7 @@ class Derived extends Base      // class Derived : public Base
     }
 }
 
+
 class Inheritance3
 {
     public static void main(String a[])
