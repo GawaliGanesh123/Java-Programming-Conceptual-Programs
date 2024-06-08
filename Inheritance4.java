@@ -36,6 +36,7 @@ class DerivedX extends Derived
     }
 }
 
+
 class Inheritance4
 {
     public static void main(String a[])
