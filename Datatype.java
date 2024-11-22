@@ -9,7 +9,7 @@ class Datatype
         char ch = 'A';
 
         System.out.println(no);
-        System.out.println(f);
+        System.out.println(f); 
         System.out.println(d);
         System.out.println(ch);                        
     }
