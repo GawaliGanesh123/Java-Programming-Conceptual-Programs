@@ -8,7 +8,7 @@ class Datatype
         double d = 89.9999;
         char ch = 'A';
 
-        System.out.println(no);
+        System.out.println(no); 
         System.out.println(f); 
         System.out.println(d);
         System.out.println(ch);                        
