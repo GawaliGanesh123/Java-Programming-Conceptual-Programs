@@ -5,7 +5,7 @@ class Demo
     {
         System.out.println("Jay Ganesh...");
     }
-}
+}  
 
 // javac Demo.java
 // java Demo
