@@ -5,7 +5,7 @@ class Datatype
     {
         int no = 11; 
         float f = 3.14f;
-        double d = 89.9999;
+        double d = 89.9999; 
         char ch = 'A';
 
         System.out.println(no); 
