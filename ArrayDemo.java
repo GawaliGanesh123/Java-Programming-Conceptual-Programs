@@ -4,7 +4,7 @@ class ArrayDemo
     {
         int Arr[] = new int[5];
 
-        Arr[0] = 10;
+        Arr[0] = 10; 
         Arr[1] = 20;
         Arr[2] = 30;
         Arr[3] = 40;
