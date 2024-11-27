@@ -6,7 +6,7 @@ class ArrayDemo1
         
         int Arr[] = new int[]{10,20,30,40,50};
         
-        System.out.println("Number of elements in array are : "+Arr.length);
+        System.out.println("Number of elements in array are : "+Arr.length);  
 
         System.out.println(Arr[0]);
         System.out.println(Arr[1]);
