@@ -5,7 +5,7 @@ class Multi
         int Arr[][] = new int[3][4];
 
         Arr[0][0] = 10;
-        Arr[0][1] = 11;
+        Arr[0][1] = 11; 
         Arr[0][2] = 12;
         Arr[0][3] = 13;
 
