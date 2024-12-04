@@ -10,7 +10,7 @@ class Demo
 class Access 
 {
     public static void main(String Arg[])
-    { 
+    {  
 
     }
 }
