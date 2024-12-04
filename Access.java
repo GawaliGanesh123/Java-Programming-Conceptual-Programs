@@ -2,7 +2,7 @@
 class Demo
 {
     public int A;
-    private int B;
+    private int B; 
     protected int C;
     int D;                  // default access specifier
 }
