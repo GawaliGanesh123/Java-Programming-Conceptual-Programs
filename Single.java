@@ -11,7 +11,7 @@ class Base
         System.out.println("Inside Base fun");
     }
 } 
-
+ 
 class Derived extends Base          
 {
     public int X,Y;
