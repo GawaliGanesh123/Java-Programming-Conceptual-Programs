@@ -9,7 +9,7 @@ class Base
     public void Fun()
     {
         System.out.println("Inside Base fun");
-    }
+    } 
 } 
  
 class Derived extends Base          
