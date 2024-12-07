@@ -19,7 +19,7 @@ class Derived extends Base
     {
         System.out.println("Derived Constructor");
     }
-    public void Gun()
+    public void Gun() 
     {
         System.out.println("Inside Derived gun");
     }
