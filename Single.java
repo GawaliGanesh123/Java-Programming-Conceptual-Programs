@@ -6,7 +6,7 @@ class Base
     {
         System.out.println("Base constructor");
     }
-    public void Fun()
+    public void Fun() 
     {
         System.out.println("Inside Base fun");
     } 
