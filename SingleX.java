@@ -1,4 +1,4 @@
-
+ 
 class Base
 {
     public int A,B;
