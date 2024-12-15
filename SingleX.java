@@ -32,6 +32,6 @@ class SingleX
         Base bobj1 = new Base();        // Nocasting
         Derived dobj1 = new Derived();  // Nocasting
         Base bobj2 = new Derived();     // Upcasting (A)
-        Derived dobj2 = new Base();     // Downcasting (NA)
+        Derived dobj2 = new Base();     // Downcasting (NA) 
     }
 }
