@@ -13,7 +13,7 @@ class Base
 }
 
 class Derived extends Base          
-{
+{ 
     public int X,Y;
     public Derived()
     {
