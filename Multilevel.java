@@ -15,7 +15,7 @@ class Base
 class Derived extends Base          
 { 
     public int X,Y;
-    public Derived()
+    public Derived() 
     {
         System.out.println("Derived Constructor");
     }
