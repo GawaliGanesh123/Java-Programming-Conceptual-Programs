@@ -4,7 +4,7 @@ class Base
     public int A,B;
     public Base()
     {
-        System.out.println("Base constructor");
+        System.out.println("Base constructor"); 
     }
     public void Fun()
     {
