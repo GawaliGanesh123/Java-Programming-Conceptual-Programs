@@ -4,7 +4,7 @@ class Demo
     {   return A+B;     }
     public int Addition(int A, int B, int C)
     {   return A+B+C;   }
-    public double Addition(double A, double B)
+    public double Addition(double A,  double B)
     {   return A+B;     }
     public void Fun(int A, double B)
     {}
