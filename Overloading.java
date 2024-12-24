@@ -10,7 +10,7 @@ class Demo
     {}
     public void Fun(double A, int B) 
     {}   
-} 
+}    
  
 class Overloading
 {
