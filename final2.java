@@ -5,7 +5,7 @@ class Base
         System.out.println("Inside base Gun");
     }
 }
-
+ 
 class Derived extends Base
 {
     public void gun()       // Error
