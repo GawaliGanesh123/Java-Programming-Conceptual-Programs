@@ -9,7 +9,7 @@ class Demo
         No2 = 21;
     }
 }
-
+ 
 class final1
 {
     public static void main(String A[])
