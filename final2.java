@@ -13,7 +13,7 @@ class Derived extends Base
         System.out.println("Inside derived Gun");
     }
 }
-
+ 
 class final2
 {
     public static void main(String A[])
