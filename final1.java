@@ -8,7 +8,7 @@ class Demo
         No1 = 11;
         No2 = 21;
     }
-}
+} 
  
 class final1
 {
