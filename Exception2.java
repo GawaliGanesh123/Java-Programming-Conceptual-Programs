@@ -11,7 +11,7 @@ class Exception2
         int i = sobj.nextInt();
 
         System.out.println(Arr[i]);
-       
+        
         System.out.println("End of code");
     }
 }
