@@ -7,7 +7,7 @@ class Exception3
         try
         {
             System.out.println("Inside try block");
-
+ 
             Scanner sobj = new Scanner(System.in);
             int Arr[] = {10,20,30,40,50};
 
