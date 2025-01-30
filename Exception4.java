@@ -9,7 +9,7 @@ class Exception4
             // Code
         }
         catch(ArrayIndexOutOfBoundsException obj)
-        {
+        { 
         }
         catch(ArithematicException obj)
         {
