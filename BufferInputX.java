@@ -11,7 +11,7 @@ class BInputX
             System.out.println("Enter your name : ");
             String name = bobj.readLine();
 
-            System.out.println("Welcome : "+name);    
+            System.out.println("Welcome : "+name);     
         }
         catch(IOException obj)
         {}
