@@ -20,4 +20,4 @@ class BInputXX
         catch(IOException obj)
         {}
     }
-}
+} 
