@@ -6,7 +6,7 @@
     finalize()
 */
 
-class Marvellous
+class Marvellous 
 {}
 
 // class ObjectDemo extends Object
