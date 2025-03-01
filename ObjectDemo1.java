@@ -10,7 +10,7 @@ class Marvellous
     protected void finalize()
     {
         System.out.println("Inside finalize method");
-    }
+    } 
 }
 
 class ObjectDemo1
