@@ -1,7 +1,7 @@
 class Base
 {
     public int A,B;
-    public Base()
+    public Base() 
     {   
         System.out.println("Inside base constructor");  
         this.A = 10;
