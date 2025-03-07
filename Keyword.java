@@ -5,7 +5,7 @@ class Base
     {   
         System.out.println("Inside base constructor");  
         this.A = 10;
-        this.B = 20;
+        this.B = 20; 
     }
     public void fun()
     {   System.out.println("Inside fun of Base");   }
