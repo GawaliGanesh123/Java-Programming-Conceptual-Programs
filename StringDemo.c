@@ -8,7 +8,7 @@ int main()
 
     printf("%s\n",Arr);
     printf("%s\n",Brr);
-
+ 
     printf("%d\n",strlen(Arr));
     printf("%d\n",strlen(Brr));
 
