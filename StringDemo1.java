@@ -8,7 +8,7 @@ class StringDemo1
         String s3 = "Demo";
         String s4 = new String("Java");
         String s5 = "Hello";
-        String s6 = "Demo";
+        String s6 = "Demo"; 
         String s7 = "Marvellous";
         String s8 = new String("Hello");
         String s9 = new String("PPA");
