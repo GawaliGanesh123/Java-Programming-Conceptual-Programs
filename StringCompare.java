@@ -11,7 +11,7 @@ class StringComare
         if(s1 == s4)
         {
             System.out.println("s1 and s4 are same");
-        }
+        } 
 
         if(s1 == s3)
         {
