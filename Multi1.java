@@ -6,4 +6,4 @@ class Multi1
 
         System.out.println("Name of thread is : "+name);
     }
-}
+} 
