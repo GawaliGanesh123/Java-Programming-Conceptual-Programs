@@ -4,7 +4,7 @@ class Demo extends Thread
     {}
 }
 
-class Hello implements Runnable
+class Hello implements Runnable 
 {
     public void run()
     {}
