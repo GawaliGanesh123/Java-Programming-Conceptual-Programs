@@ -10,7 +10,7 @@ class Demo extends Thread
         }
     }
 }
-
+ 
 class Multi3
 {
     public static void main(String A[])
