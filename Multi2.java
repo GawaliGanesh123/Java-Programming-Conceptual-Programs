@@ -2,7 +2,7 @@ class Demo extends Thread
 {
     public void run()
     {}
-}
+} 
 
 class Hello implements Runnable 
 {
