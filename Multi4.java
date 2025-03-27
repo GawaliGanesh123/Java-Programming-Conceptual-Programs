@@ -16,7 +16,7 @@ class Demo extends Thread
         {}
     }
 }
-
+ 
 class Multi4
 {
     public static void main(String A[])
