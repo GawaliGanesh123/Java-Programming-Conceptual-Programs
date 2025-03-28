@@ -9,7 +9,7 @@ class Demo extends Thread
             System.out.println("Running thread : "+name+" with value : "+i);
         }
     }
-}
+} 
   
 class Multi3
 {
