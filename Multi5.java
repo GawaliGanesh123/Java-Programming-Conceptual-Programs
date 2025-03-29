@@ -11,7 +11,7 @@ class Demo extends Thread
                 System.out.println("Running thread : "+name+" with value : "+i);
                 Thread.sleep(1000);
             }
-        }
+        } 
         catch(Exception obj)
         {}
     }
