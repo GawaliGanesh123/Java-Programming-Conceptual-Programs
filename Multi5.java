@@ -1,7 +1,7 @@
 class Demo extends Thread
 {
     public void run()
-    {
+    { 
         try
         {
             int i = 0;
