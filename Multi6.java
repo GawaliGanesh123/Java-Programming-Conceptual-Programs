@@ -3,7 +3,7 @@ class Demo extends Thread
     public void run()
     {
         try
-        {
+        { 
             int i = 0;
             String name = Thread.currentThread().getName();
             for(i = 0; i <= 10; i++)
