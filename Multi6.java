@@ -13,7 +13,7 @@ class Demo extends Thread
             }
         }
         catch(Exception obj)
-        {}
+        {} 
     }
 }
 
