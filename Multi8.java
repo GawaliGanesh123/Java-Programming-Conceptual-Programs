@@ -9,7 +9,7 @@ class Marvellous
             {
                 System.out.println(i*no);
                 Thread.sleep(1000);
-            }
+            } 
         }
         catch(Exception obj)
         {}
