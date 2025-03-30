@@ -17,7 +17,7 @@ class Demo extends Thread
 }
 
 class Multi7
-{
+{ 
     public static void main(String A[])
     {
         System.out.println("Current thread is : "+Thread.currentThread().getName());
