@@ -16,7 +16,7 @@ class Marvellous
     }
 }
 
-class Demo extends Thread
+class Demo extends Thread 
 {
     public void run()
     {
