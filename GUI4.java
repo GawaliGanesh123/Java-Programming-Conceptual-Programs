@@ -7,7 +7,7 @@ class MarvellousFrame
     {
         Frame fobj = new Frame(title);
         fobj.setSize(600,600);
-        fobj.setVisible(true);
+        fobj.setVisible(true); 
         fobj.addWindowListener(new MarvellousListener());
     }
 }
