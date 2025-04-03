@@ -3,7 +3,7 @@ import java.awt.event.*;
 
 class MarvellousFrame
 {
-    public MarvellousFrame(String title)
+    public MarvellousFrame(String title) 
     {
         Frame fobj = new Frame(title);
         fobj.setSize(600,600);
