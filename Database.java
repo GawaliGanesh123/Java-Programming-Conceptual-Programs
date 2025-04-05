@@ -3,7 +3,7 @@ import java.sql.*;          // 1
 class Database
 {
     public static void main(String arg[]) throws Exception
-    {
+    { 
         Connection cobj = DriverManager.getConnection("jdbc:mysql://localhost:3306/ppa50","root","root");   // 2
         
         Statement sobj = cobj.createStatement();        // 3
