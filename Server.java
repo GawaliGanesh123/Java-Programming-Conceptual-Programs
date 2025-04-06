@@ -3,7 +3,7 @@ import java.io.*;
 
 class Server  
 {
-    public static void main(String Arg[]) throws Exception
+    public static void main(String Arg[]) throws Exception 
     {
         System.out.println("Server application is running...");
         
