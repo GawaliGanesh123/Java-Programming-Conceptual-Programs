@@ -1,7 +1,7 @@
 // ArrayList
 
 import java.util.*;
-
+ 
 class Collections2
 {
     public static void main(String Arg[])
