@@ -4,7 +4,7 @@ import java.util.*;
 
 class Collections1
 {
-    public static void main(String Arg[])
+    public static void main(String Arg[]) 
     {
         LinkedList <Integer> lobj = new LinkedList<Integer>();
         // LinkedList lobj = new LinkedList();
