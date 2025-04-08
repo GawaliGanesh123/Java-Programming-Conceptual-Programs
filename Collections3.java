@@ -3,7 +3,7 @@
 import java.util.*;
 
 class Collections3
-{
+{ 
     public static void main(String Arg[])
     {
         Stack <Float> sobj = new Stack<Float>();
