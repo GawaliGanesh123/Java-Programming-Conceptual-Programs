@@ -4,7 +4,7 @@ import java.util.*;
 
 class Collections4
 {
-    public static void main(String Arg[])
+    public static void main(String Arg[]) 
     {
         Hashtable <String, Integer> hobj = new Hashtable<String, Integer>();
 
